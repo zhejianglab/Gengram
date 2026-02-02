@@ -12,6 +12,12 @@
   </a>
 </div>
 
+## News
+
+🚀 **2026.2.2  |  Paper Preprint Available**: Our paper on Gengram has been released as a preprint on arXiv. Check it out at [https://www.arxiv.org/abs/2601.22203](https://www.arxiv.org/abs/2601.22203).
+
+
+
 ## 1. Introduction
 
 Gengram is a novel conditional memory module designed for genomic foundation models (GFMs) that introduces explicit motif memory retrieval to enhance Transformer-based DNA sequence modeling. Unlike traditional GFMs that rely on dense computation to implicitly infer multi-nucleotide motifs, Gengram provides an efficient lookup mechanism for biological patterns through a genomic-specific hashing scheme.
